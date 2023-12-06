@@ -1,0 +1,20 @@
+{
+    "recommendations": [
+        "lihuiwang.vue-alias-skip",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "amayakite.aya-vue3-extension-pack",
+        "intellsmi.comment-translate",
+        "pucelle.vscode-css-navigation",
+        "editorconfig.editorconfig",
+        "kisstkondoros.vscode-gutter-preview",
+        "visualstudioexptteam.vscodeintellicode",
+        "christian-kohler.path-intellisense",
+        "cipchk.cssrem",
+        "stylelint.vscode-stylelint",
+        "uni-helper.uni-helper-vscode",
+        "antfu.unocss",
+        "antfu.vite",
+        "misterj.vue-volar-extention-pack"
+    ]
+}
